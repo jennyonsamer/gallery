@@ -1,7 +1,6 @@
 {
   "name": "gallery",
   "version": "1.0.0",
-  "description": "",
   "main": "gulp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/jennyonsamer/gallery/issues"
   },
-  "homepage": "https://github.com/jennyonsamer/gallery#readme"
+  "homepage": "https://github.com/jennyonsamer/gallery#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {},
+  "description": ""
 }
